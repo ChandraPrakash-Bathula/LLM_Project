@@ -40,7 +40,3 @@ This project is licensed under the [MIT License](LICENSE). You are free to modif
 ## Acknowledgments
 
 Special thanks to the langchain library for providing the powerful LLM capabilities used in this project.
-
-```
-
-This README.md provides a brief overview of your project, including installation instructions, usage guidelines, features, examples, contribution guidelines, license information, and acknowledgments. Feel free to customize it further based on the specifics of your project and any additional information you want to include.
