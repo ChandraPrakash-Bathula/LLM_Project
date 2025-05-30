@@ -1,4 +1,4 @@
-# Restaurant Name and Dessert Suggestion Generator
+# Restaurant Name & Dessert Suggestion Generator
 
 This project utilizes an LLM (Language Learning Model) from the langchain library to generate restaurant names based on selected options and suggest dessert items. It provides a simple yet effective way to come up with unique restaurant names and discover new dessert ideas.
 
